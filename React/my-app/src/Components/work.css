@@ -1,0 +1,47 @@
+/* .pro-head{
+    text-align: center;
+    padding: 4rem 0 2rem 0;
+} */
+.pro-container{
+  max-width: 1150px;  
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  grid-gap: 20px;
+  padding-bottom: 5rem;
+}
+
+.work{
+    padding-top: 30px;
+}
+
+.pr-card{
+    background: #1a1919;
+    padding: 1.2rem 1rem;
+}
+
+.pr-card img{
+width: 100%;
+}
+
+.title{
+    color: white;
+    padding: 1rem 0;
+    font-size: 3rem;
+
+}
+
+.pro-dets p{
+    padding-bottom: 1rem;
+    font-size: 1.3rem;
+    text-align: justify;
+font-family: "Roboto", sans-serif ;
+}
+
+@media screen and (max-width: 740px){
+    .pro-container{
+        max-width: 90%;
+        margin:auto;
+        grid-template-columns: 1fr;
+    }
+}

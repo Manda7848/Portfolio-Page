@@ -25,16 +25,7 @@ const AboutMe = () => {
                 <button className="btn">Contact Me</button>
             </Link>
             </div>
-        <div className="right">
-            <div className="img-container">
-            <div className="top">
-                <img src={Html} className="img" alt="Html" />
-                 </div>
-                 <div className="bottom">
-                <img src={Css }className="img" alt="Css" />
-                 </div>
-            </div>
-        </div>
+        
         </div>
   )
 };

@@ -21,37 +21,3 @@
     font-family: "Roboto";
 }
 
-.about .right{
-    max-width: 600px;
-}
-
-.right .img-container{
-    display: grid;
-    align-items: center;
-    grid-template-columns: repeat(13,1fr);
-    position: relative;
-    text-align: center;
-}
-
-.right .img{
-    max-width: 90%;
-    border: 5px solid white;
-}
-
-
-.right .top{
-    grid-column: 1 / span 8;
-    grid-row: 1;
-    padding-top: 20%;
-    z-index: 6;
-
-}
-
-
-.right .bottom{
-    grid-column: 4 / -1;
-    grid-row: 1;
-   
-    z-index: 5;
-    
-}

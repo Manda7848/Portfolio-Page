@@ -3,6 +3,9 @@
     height: 100vh;
     position: relative;
 }
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
 
 .intro-img{
     width: 100%;

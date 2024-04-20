@@ -11,6 +11,10 @@ z-index: 10;
 }
 
 
+h1{
+    font-family: 'Orbitron', sans-serif;
+}
+
 
 .header-bg{
     background-color: rgb(2,5,23);

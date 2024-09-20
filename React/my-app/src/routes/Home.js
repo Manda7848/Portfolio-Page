@@ -3,7 +3,7 @@ import Navbar from "../Components/Navbar";
 import HeroImg from "../Components/heroimg";
 import Footer from "../Components/footer";
 import Work from "../Components/work";
-import Analytics  from "@vercel/analytics/react";
+import { Analytics}  from "@vercel/analytics/react";
 // import { SpeedInsights } from "@vercel/speed-insights/react";
 
 const Home = () => {

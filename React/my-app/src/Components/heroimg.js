@@ -35,7 +35,7 @@ import IntroImg from "./assets/Space.jpg";
 
 const HeroImg = () => {
   const [textIndex, setTextIndex] = useState(0);
-  const texts = ["Prospective Software Engineer", "Passionate Developer", "Tech Enthusiast","Space Nerd","Student","Child of God", "Proud Older Sister", "Curious Learner", "Problem Solver", "Team Player","Video Editor", "Panda Lover", "Graphic Deigner"  ]; // Array of texts to cycle through
+  const texts = ["Prospective Software Engineer", "Passionate Developer", "Tech Enthusiast","Space Nerd","Student","Child of God", "Proud Older Sister", "Curious Learner", "Problem Solver", "Team Player","Video Editor", "Panda Lover", "Graphic Deigner", "Microsoft Technology Associate"  ]; // Array of texts to cycle through
 
   useEffect(() => {
     // Function to update the text index every 5 seconds

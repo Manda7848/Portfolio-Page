@@ -14,7 +14,7 @@ const ProjectCard = [
     {
         imgsrc : pro2,
         title: "Restaraunt Website",
-        text: "In this Project,  designed a landing page for a fictional restaurant called 'Amanda Express' This was a step up from previous ones as I Made a functional navbar that links to other pages while using the background image properties and a button to hypelink my websites",
+        text: "In this Project,  designed a landing page for a fictional restaurant called 'Amanda Express' This was a step up from previous ones as I Made a functional navbar that links to other pages while using the background image properties and a button to hyperlink my websites",
     },
 
     {

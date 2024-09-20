@@ -8,7 +8,7 @@ import Hero from "../Components/hero";
     return (
       <div>
          <Navbar/>
-    <Hero heading="Thank you!" text="Thank you for taking time to fill the form. Ill get in touch ASAP"/>
+    <Hero heading="Thank you!" text="Thank you for taking time to fill the form. I'll get in touch ASAP"/>
     <Footer/>
       </div>
     )

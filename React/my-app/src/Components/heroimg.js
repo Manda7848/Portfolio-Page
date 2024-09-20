@@ -57,7 +57,7 @@ const HeroImg = () => {
         {/* Use CSS animation for swipe effect */}
         <h1 className="swipeRightAnimation">A {texts[textIndex]}</h1>
         <div>
-          <Link to="/Projects" className="btn">Projects</Link>
+          <Link to="/Projects/Navbar" className="btn">Projects</Link>
           <Link to="/Contact" className="btn-light">Connect</Link>
         </div>
       </div>

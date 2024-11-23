@@ -8,12 +8,12 @@ const ProjectCard = [
     {
         imgsrc : pro1,
         title: "Basic Landing Page",
-        text: "This was my project sumbission fot the Talent Hunt Campaign at my school when I was still in Junior School. It was the first Project that I used Bootstrap in and Embedded Youtube videos while also incorporating a live feed for the Chanel Twitter Page",
+        text: "This was my project sumbission for the Talent Hunt Campaign at my school when I was still in Junior School. It was the first Project that I used Bootstrap in and Embedded Youtube videos while also incorporating a live feed for the Chanel Twitter Page",
     },
 
     {
         imgsrc : pro2,
-        title: "Restaraunt Website",
+        title: "Restauraunt Website",
         text: "In this Project,  designed a landing page for a fictional restaurant called 'Amanda Express' This was a step up from previous ones as I Made a functional navbar that links to other pages while using the background image properties and a button to hyperlink my websites",
     },
 

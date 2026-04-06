@@ -9,13 +9,7 @@ const footer = () => {
         <div className="footer">
             <div className="footer-div">
                 <div className="left">
-                    <div className="location">
-                        <FaHome size={40} style={{ color: "white", marginRight: "2rem" }} />
-                        <div>
-                            <p> 13/15 Acme Crescent, Off Acme Road, Agidingbi, Ikeja.</p>
-                            <p>Lagos.</p>
-                        </div>
-                    </div>
+                   
 
                     <div className="phone">
                         <h4>
